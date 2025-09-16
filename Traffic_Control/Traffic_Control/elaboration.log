@@ -1,0 +1,27 @@
+Active-HDL 15.0.261.9132 2025-09-15 23:33:25
+
+Elaboration top modules:
+Verilog Module                traffic_light_testbench
+
+
+---------------------------------------------------------------------------------------------------
+Verilog Module          | Library         | Info | Compiler Version          | Compilation Options
+---------------------------------------------------------------------------------------------------
+traffic_light_testbench | traffic_control |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+breadboard              | traffic_control |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+clock                   | traffic_control |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+memory_module           | traffic_control |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+control_logic           | traffic_control |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+counter                 | traffic_control |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+lighting                | traffic_control |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+p_adder                 | traffic_control |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+FA_with_control         | traffic_control |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+full_adder              | traffic_control |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+half_adder              | traffic_control |      | 15.0.261.9132 (Windows64) | -O2 -sv2k17
+---------------------------------------------------------------------------------------------------
+
+---------------------------------------------------------------------------------------------------
+Library                 | Comment
+---------------------------------------------------------------------------------------------------
+traffic_control         | None
+---------------------------------------------------------------------------------------------------

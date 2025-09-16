@@ -1,0 +1,16 @@
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\Traffic_Control\src/traffic_light_controller.v|]
+TemplateId=2
+ActiveDocument=1
+tab=lu
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\Traffic_Control\src/traffic_light_testbench.v|]
+TemplateId=2
+tab=lu
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\Traffic_Control\src/control_logic.v|]
+TemplateId=2
+tab=lu
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\Traffic_Control\src/counter.v|]
+TemplateId=2
+tab=lu
+[OPENDOC|Aldec.Hde.HdePlugIn.7|.\Traffic_Control\src/lighting.v|]
+TemplateId=2
+tab=lu

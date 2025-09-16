@@ -1,0 +1,14 @@
+i<>.\src\full_adder.v
+i<>.\src\half_adder.v
+i<>.\src\FA_with_control.v
+i<>.\src\p_adder.v
+i<>.\src\test.v
+i<>.\src\Dfilpflop.v
+i<>.\src\traffic_light_testbench.v
+i<>.\src\traffic_light_controller.v
+i<>.\src\clock.v
+i<>.\src\memory_module.v
+i<>.\src\Dflipflop_tb.v
+i<>.\src\control_logic.v
+i<>.\src\counter.v
+i<>.\src\lighting.v

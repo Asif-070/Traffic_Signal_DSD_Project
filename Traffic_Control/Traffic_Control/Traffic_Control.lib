@@ -1,0 +1,193 @@
+timestamp=1736836043991
+
+[~A]
+C:/Users/Asif/Documents/My_Designs/DSDProject/Traffic_Control/src/DLatch.v=0*12257*12723
+C:/Users/Asif/Documents/My_Designs/DSDProject/Traffic_Control/src/Dfilpflop.v=0*13779*14248
+C:/Users/Asif/Documents/My_Designs/DSDProject/Traffic_Control/src/FA_with_control.v=0*7030*7617
+C:/Users/Asif/Documents/My_Designs/DSDProject/Traffic_Control/src/NAND.v=0*10720*11232
+C:/Users/Asif/Documents/My_Designs/DSDProject/Traffic_Control/src/clock.v=0*20011*20540
+C:/Users/Asif/Documents/My_Designs/DSDProject/Traffic_Control/src/control_logic.v=0*330753*331883
+C:/Users/Asif/Documents/My_Designs/DSDProject/Traffic_Control/src/full_adder.v=0*3941*4491
+C:/Users/Asif/Documents/My_Designs/DSDProject/Traffic_Control/src/full_adder.v_half_adder.v_FA_with_control.v_p_adder.v_ALU_tb.v_Dfilpflop.v_traffic_light_testbench.v_traffic_light_controller.v_clock.v_memory_module.v_Dflipflop_tb.v=0*209189*212710
+C:/Users/Asif/Documents/My_Designs/DSDProject/Traffic_Control/src/full_adder.v_half_adder.v_FA_with_control.v_p_adder.v_ALU_tb.v_Dfilpflop.v_traffic_light_testbench.v_traffic_light_controller.v_clock.v_memory_module.v_Dflipflop_tb.v_control_logic.v=0*325545*329242
+C:/Users/Asif/Documents/My_Designs/DSDProject/Traffic_Control/src/full_adder.v_half_adder.v_FA_with_control.v_p_adder.v_test.v=0*1441*2840
+C:/Users/Asif/Documents/My_Designs/DSDProject/Traffic_Control/src/full_adder.v_half_adder.v_FA_with_control.v_p_adder.v_test.v_Dfilpflop.v_traffic_light_testbench.v_traffic_light_controller.v_clock.v_memory_module.v_Dflipflop_tb.v=0*194957*198236
+C:/Users/Asif/Documents/My_Designs/DSDProject/Traffic_Control/src/full_adder.v_half_adder.v_FA_with_control.v_p_adder.v_test.v_NAND.v_DLatch.v_Dfilpflop.v=0*17166*18865
+C:/Users/Asif/Documents/My_Designs/DSDProject/Traffic_Control/src/full_adder.v_half_adder.v_FA_with_control.v_p_adder.v_test.v_NAND.v_DLatch.v_Dfilpflop.v_traffic_light_testbench.v_traffic_light_controller.v_clock.v=0*56699*59387
+C:/Users/Asif/Documents/My_Designs/DSDProject/Traffic_Control/src/full_adder.v_half_adder.v_FA_with_control.v_p_adder.v_test.v_NAND.v_DLatch.v_Dfilpflop.v_traffic_light_testbench.v_traffic_light_controller.v_clock.v_memory_module.v=0*172453*175445
+C:/Users/Asif/Documents/My_Designs/DSDProject/Traffic_Control/src/full_adder.v_half_adder.v_FA_with_control.v_p_adder.v_test.v_NAND.v_DLatch.v_Dfilpflop.v_traffic_light_testbench.v_traffic_light_controller.v_clock.v_memory_module.v_Dflipflop_tb.v=0*187623*191126
+C:/Users/Asif/Documents/My_Designs/DSDProject/Traffic_Control/src/half_adder.v=0*5489*5991
+C:/Users/Asif/Documents/My_Designs/DSDProject/Traffic_Control/src/p_adder.v=0*8728*9515
+C:/Users/Asif/Documents/My_Designs/DSDProject/Traffic_Control/src/traffic_light_controller.v=0*297106*298214
+C:/Users/Asif/Documents/My_Designs/DSDProject/Traffic_Control/src/traffic_light_testbench.v=0*43522*44149
+C:/Users/Asif/Documents/My_Designs/DSDProjectCL/DSDProject/Traffic_Control/src/counter.v=0*333052*333852
+C:/Users/Asif/Documents/My_Designs/DSDProjectCL/DSDProject/Traffic_Control/src/full_adder.v_half_adder.v_FA_with_control.v_p_adder.v_ALU_tb.v_Dfilpflop.v_traffic_light_testbench.v_traffic_light_controller.v_clock.v_memory_module.v_Dflipflop_tb.v_control_logic.v_counter.v_lighting.v=0*382528*386595
+LastVerilogToplevel=Dflipflop_tb
+ModifyID=68
+Version=74
+
+[~MFT]
+0=19|0Traffic_Control.mgf|386595|171087
+1=29|1Traffic_Control.mgf|993836|963578
+3=58|3Traffic_Control.mgf|654854|635501
+
+[$root]
+A/$root=22|||1*971437
+BinW64/$root=3*638368
+SLP=3*638483
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|c73a565f2ade592f8ac1c68f484c92168b9b03dfbff4ad9706c5ba355279cc0d
+
+[ALU_tb]
+A/ALU_tb=22|../src/ALU_tb.v|27|1*978279
+BinW64/ALU_tb=3*640599
+R=../src/ALU_tb.v|27
+SLP=3*642029
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|b991c9f412e6706da1c2ecbb67c6e54852996cbc73de2cb274e8d2c4a3ba0c85
+
+[DLatch]
+A/DLatch=22|../src/DLatch.v|1|1*483943
+BinW64/DLatch=3*276294
+R=../src/DLatch.v|1
+SLP=3*276599
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|9591d94ee894637eadfbd1ca7320b11aa427f089b678ebe7221e091b1c6c9313
+
+[Dflipflop]
+A/Dflipflop=22|../src/Dfilpflop.v|27|1*980468
+BinW64/Dflipflop=3*643253
+R=../src/Dfilpflop.v|27
+SLP=3*644059
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|b4bc7ce78f4af272e093b92995a90468e5f3e364839e548f034dad07dd1c36b46bce168e327dcfb3f55797794837d73c
+
+[Dflipflop_tb]
+A/Dflipflop_tb=22|../src/Dflipflop_tb.v|3|1*993836
+BinW64/Dflipflop_tb=3*653527
+R=../src/Dflipflop_tb.v|3
+SLP=3*654854
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|f889c698622eabefe982c0c7df6b91b53efe5d77d58b86d248b647e642eca191b4107d7039462c7635bc8979806f9f80
+
+[FA_with_control]
+A/FA_with_control=22|../src/FA_with_control.v|27|1*974165
+BinW64/FA_with_control=3*639610
+R=../src/FA_with_control.v|27
+SLP=3*640093
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|4e4d24d410309850cecc8e67e41a73e3f7cd3bb03adbdcdf3cc15dea2d21586b39af7ed2dd17932cfdc4b401350217cb
+
+[NAND]
+A/NAND=22|../src/NAND.v|1|1*481998
+BinW64/NAND=3*275542
+R=../src/NAND.v|1
+SLP=3*275919
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|7a9ac39096ef7ec15c72f37c2323d771eecaeb6a43c92bbf16c9a72b3e903c31
+
+[SRLatch]
+A/SRLatch=22|../src/NAND.v|7|1*482848
+BinW64/SRLatch=3*276066
+R=../src/NAND.v|7
+SLP=3*276183
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|46b452f9f27bf2291bbe473136a9bd1e26527262ddaa47cb266f3a3c4d9b973ad0bd58186602937b0fb84257c490e6a4
+
+[breadboard]
+A/breadboard=22|../src/traffic_light_controller.v|1|1*982976
+BinW64/breadboard=3*645633
+R=../src/traffic_light_controller.v|1
+SLP=3*645910
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|8bba35ebb1d6b345a990b9e2e604cd61e7cb43217a5ab22c7aa273b9580ec14a23edbe1e184e7c9a1cc5b766255751d0
+
+[clock]
+A/clock=22|../src/clock.v|27|1*985335
+BinW64/clock=3*646097
+R=../src/clock.v|27
+SLP=3*646540
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|b5908d396eb110753762aa81bb2baad00a7b1950a50cce90583da3a36efde7ca
+
+[control_logic]
+A/control_logic=22|../src/control_logic.v|1|1*987110
+BinW64/control_logic=3*647662
+R=../src/control_logic.v|1
+SLP=3*650059
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|f96c2189c3698385f875c02440a18f13a17f40922c941617b84c0d2a5e50fc427ee865f3f724ca909bcf04991c7bb5fc
+
+[counter]
+A/counter=22|../src/counter.v|1|1*990383
+BinW64/counter=3*651140
+R=../src/counter.v|1
+SLP=3*651731
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|ec8a9ceecd40c97da6d5687ce01e262f26527262ddaa47cb266f3a3c4d9b973ade6bdd0b210367327317678450ea84da
+
+[full_adder]
+A/full_adder=22|../src/full_adder.v|27|1*971843
+BinW64/full_adder=3*638551
+R=../src/full_adder.v|27
+SLP=3*638882
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|b6bc4c72c6b4732d30366d04e0b9d81ca93b35da59acef6f28d70118359e933eaf92a9a6efeb1cb6287d34ea891b3f9b
+
+[half_adder]
+A/half_adder=22|../src/half_adder.v|27|1*973224
+BinW64/half_adder=3*639052
+R=../src/half_adder.v|27
+SLP=3*639419
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|9d478890ab412e42d6b75255d560236f41ab0ed49771ee80612b3666c997a9c2e2338e2e3e2db07f1f9a4bf858d1e216
+
+[lighting]
+A/lighting=22|../src/lighting.v|1|1*992873
+BinW64/lighting=3*652216
+R=../src/lighting.v|1
+SLP=3*653002
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|033839070bc214f1633e4e66f41b59fc0602192bf13219adeebae6c40f906a05d18d667baa68fe8f57a0b94f2f2b644e
+
+[memory_module]
+A/memory_module=22|../src/memory_module.v|1|1*986129
+BinW64/memory_module=3*646770
+R=../src/memory_module.v|1
+SLP=3*647351
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|d1bb9bd0ac3df482f339ee8f96c977adec7c49788a951bdea0710379936b2bdc98eb3cedb175bdeb1e8bf6e2e4efe3db
+
+[p_adder]
+A/p_adder=22|../src/p_adder.v|27|1*975518
+BinW64/p_adder=3*640331
+R=../src/p_adder.v|27
+SLP=3*640448
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|400c41ce1e210c13c7f97e7fb8d5a99726527262ddaa47cb266f3a3c4d9b973a309a2ca219f3f68fdbd149f98e95ca52
+
+[test]
+A/test=22|../src/test.v|27|1*501871
+BinW64/test=3*288610
+R=../src/test.v|27
+SLP=3*289299
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|e1f76c805e2c0a9a3d36a8be8882f206f6380f5fc720133d1dc62350cae84576
+
+[traffic_light_controller]
+A/traffic_light_controller=22|../src/traffic_light_controller.v|1|1*958870
+BinW64/traffic_light_controller=3*628328
+R=../src/traffic_light_controller.v|1
+SLP=3*628619
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|632dafd93e42036f24947de725b4b1ce761bb247a895a3109650edb837c143165611a8c772c575760ed78072f719b1eb22a1391b22c943eea8b46cd92097ad3c
+
+[traffic_light_testbench]
+A/traffic_light_testbench=22|../src/traffic_light_testbench.v|1|1*981591
+BinW64/traffic_light_testbench=3*644482
+R=../src/traffic_light_testbench.v|1
+SLP=3*645255
+Version=15.0.261.9132 (Windows64)|0000000b789cd3f53752d02d2e33ca3634070010af02ea|632dafd93e42036f24947de725b4b1ceaff59dbeb74b4cd15a6dd4a179bc380026527262ddaa47cb266f3a3c4d9b973a510b6d54f2f37904c107a917701bccd8
+
+[~U]
+$root=12|0*378704|
+ALU_tb=12|0*380061||0x10
+DLatch=12|0*185952|
+Dflipflop=12|0*380261|
+Dflipflop_tb=12|0*382355||0x10
+FA_with_control=12|0*379471|
+NAND=12|0*185549|
+SRLatch=12|0*185737|
+breadboard=12|0*380763|
+clock=12|0*381097|
+control_logic=12|0*381501|
+counter=12|0*381853|
+full_adder=12|0*379030|
+half_adder=12|0*379262|
+lighting=12|0*382144|
+memory_module=12|0*381282|
+p_adder=12|0*379730|
+test=12|0*193322||0x10
+traffic_light_controller=12|0*371914|
+traffic_light_testbench=12|0*380489||0x10
